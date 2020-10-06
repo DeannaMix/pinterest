@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "pinterest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Made by Deanna",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
